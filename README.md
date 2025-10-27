@@ -26,3 +26,4 @@ Kelembaban 50%-60% : Semua OFF (normal)
 
 ![image alt](https://github.com/febryviadeyanur-cmd/Flowchart/blob/1fc483ef018b1dee53007b8c16bceac0f6be857b/Screenshot%202025-10-28%20045431.png)
 
+![image alt](https://github.com/febryviadeyanur-cmd/Flowchart/blob/c9c22add96fbe0093c80bf40530d0a992aff62f8/Screenshot%202025-10-28%20045444.png)
