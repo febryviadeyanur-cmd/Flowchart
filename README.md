@@ -1,4 +1,4 @@
-#Flowchart suhu dan kelembapan
+#Flowchart suhu dan kelembaban
 
 Suhu min < 20
 
@@ -23,3 +23,6 @@ Kelembaban < 50% : Pelembab ON, pengering OFF
 Kelembaban > 60% : Pengering ON, pelembab OFF
 
 Kelembaban 50%-60% : Semua OFF (normal)
+
+![image alt](https://github.com/febryviadeyanur-cmd/Flowchart/blob/1fc483ef018b1dee53007b8c16bceac0f6be857b/Screenshot%202025-10-28%20045431.png)
+
